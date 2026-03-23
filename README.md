@@ -1,0 +1,1 @@
+# Visual-identification-of-the-area-occupied-by-the-stone-block
